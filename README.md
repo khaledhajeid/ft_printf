@@ -25,6 +25,8 @@ It allows formatted output to the console and was a great project to **practice 
 - Language: C
 - Platform: Linux / macOS
 
+---
+
 ## Usage
 
 - Include ft_printf.h in your project.
@@ -47,6 +49,9 @@ int main(void)
     return 0;
 }
 ```
+
+---
+
 ## File Structure
 ```c
 ft_printf/
@@ -56,6 +61,9 @@ ft_printf/
 ├── Makefile
 └── README.md
 ```
+
+---
+
 ## Project Highlights
 
 - Strengthened knowledge of variadic functions in C.
