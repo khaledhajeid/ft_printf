@@ -48,7 +48,7 @@ int main(void)
 }
 ```
 ## File Structure
-```
+```c
 ft_printf/
 ├── ft_printf.c
 ├── ft_printf.h
